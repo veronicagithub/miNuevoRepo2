@@ -1,0 +1,71 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/CAJA RONCA/[_2_]titulo - copia.png" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="196.01" ancho_px="311" alto="100" ancho="100" rotation="0" posy="176" posx="257" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="48" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">New Words<FONT FACE="Verdana" SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="E - V - I - L" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]evil.gif" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]E-V-I-L.mp3" alto_px="260" ancho_px="240" alto="209.24" ancho="319.59" rotation="0" posy="3" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="H - O - R - N" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]cuernos.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]H-O-R-N.mp3" alto_px="260" ancho_px="240" alto="208.85" ancho="320.84" rotation="0" posy="2" posx="0" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="C - H - I - L - L - I - N - G" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]chilling.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]chilling.mp3" alto_px="260" ancho_px="240" alto="208.85" ancho="321.25" rotation="0" posy="2" posx="0" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="B - O - N - E" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]hueso.png" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]B-O-N-E.mp3" alto_px="260" ancho_px="240" alto="210.39" ancho="321.25" rotation="0" posy="2" posx="0" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="F - A - N - G" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]fang.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]F-A-N-G.mp3" alto_px="260" ancho_px="240" alto="210" ancho="320.84" rotation="0" posy="1" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="D - R - U - M" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]drum.png" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]D-R-U-M.mp3" alto_px="260" ancho_px="240" alto="208.47" ancho="320" rotation="0" posy="2" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="7b"/>
+  <pagina locked="0" id="8">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="H - I - D - E" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]esconder.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]H-I-D-E.mp3" alto_px="260" ancho_px="240" alto="210.77" ancho="319.59" rotation="0" posy="-1" posx="4" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="8b"/>
+  <pagina locked="0" id="9">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="A - L - L - E - Y" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]calles.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]A- L- L- E- Y.mp3" alto_px="260" ancho_px="240" alto="211.54" ancho="320.84" rotation="0" posy="0" posx="3" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="9b"/>
+  <pagina locked="0" id="10">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="F -R- I- G- H- T- E- N- E- D" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]frightened.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]F-R-I-G.mp3" alto_px="260" ancho_px="240" alto="210" ancho="321.25" rotation="0" posy="2" posx="3" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="10b"/>
+  <pagina locked="0" id="11">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="G - H -O - S - T" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]ghost.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]G--H-O-S-T.mp3" alto_px="260" ancho_px="240" alto="209.24" ancho="322.5" rotation="0" posy="1" posx="-2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="11b"/>
+  <pagina locked="0" id="12">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="H - E- A- R- S- E" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]linea8.png" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]H-E-A-R-S-E.mp3" alto_px="260" ancho_px="240" alto="209.62" ancho="320.84" rotation="0" posy="0" posx="3" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="12b"/>
+  <pagina locked="0" id="13">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="C  - A - N - D - L - E" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]candle.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]C-A-N-D-L-E.mp3" alto_px="260" ancho_px="240" alto="209.24" ancho="320.42" rotation="0" posy="1" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="13b"/>
+  <pagina locked="0" id="14">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="S - O - U -L" imagen="galeria/imagenes/cuadernia/CAJA RONCA/[_2_]soul.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]S-O-U-L.mp3" alto_px="260" ancho_px="240" alto="211.16" ancho="320.42" rotation="0" posy="-1" posx="2" tipo="audio" src="6"/>
+  </pagina>
+</fundacion>
